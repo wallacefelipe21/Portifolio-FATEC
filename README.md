@@ -42,7 +42,7 @@ O Sistema de Gestão de Serviços tem como objetivo criar um site que auxilia o 
 
 |   **Tecnologias**   | **Softskills**  | **Hardskills**  |
 |:----------|:----------|:----------|
-| <ul><li>Python/Flask</li><li>HTML</li><li>CSS</li><li>JS</li></ul> | <ul><li>Proatividade</li><li>Autonomia</li><li>Communicação</li><li>Entrega de Resultados</li></ul> | <ul><li>HTML, CSS e Javascript (Frontend)</li><li>Python/Flask (Backend)</li><li>MySQL (Banco de dados)</li></ul> |
+| <ul><li>Python/Flask</li><li>HTML</li><li>CSS</li><li>JS</li><li>MySQL</li></ul> | <ul><li>Proatividade</li><li>Autonomia</li><li>Communicação</li><li>Entrega de Resultados</li></ul> | <ul><li>HTML, CSS e JS (Frontend)</li><li>Python/Flask (Backend)</li><li>MySQL (Banco de dados)</li></ul> |
      
 </div>  
  
@@ -50,14 +50,10 @@ O Sistema de Gestão de Serviços tem como objetivo criar um site que auxilia o 
 
 <div align="center">  
 
-|   **Figura 1: Tela de Login**   | ***Figura 2: Tela de Meus Chamados**  |
+|   **Usuário comum**   | ***Usuário executor**  |
 |:----------:|:----------:|
-| <img width="460px" src= ""/> | <img width="460px" src= "https://github.com/wallacefelipe21/Portifolio-FATEC/assets/92696799/901de06e-3ba4-44ff-91b9-f4fb0cbac145"/> |
+| <img width="460px" src= "https://user-images.githubusercontent.com/92696799/163493216-654e13f5-c4b9-43df-a295-8dd7b179e3dc.gif"/> | <img width="460px" src= "https://user-images.githubusercontent.com/92696799/163494007-21cde00e-1f0f-4c82-a52f-51ee6eef6012.gif"/> |
 
-|   **Figura 3: Criação de Chamados**   | **Figura 4: Conclusão de Chamado**  |
-|:----------:|:----------:|
-| <img width="460px" src= "https://github.com/wallacefelipe21/Portifolio-FATEC/assets/92696799/f204c7b7-bcda-4420-b385-4a8f878c2f54"/> | <img width="460px" src= "https://github.com/wallacefelipe21/Portifolio-FATEC/assets/92696799/eddf9a3e-b5f9-496d-ab19-264b64f77036"/> |
-     
 </div>  
 
 ---
@@ -75,7 +71,7 @@ Send.Me é um sistema web que, a partir de uma lista de associados pré-cadastra
 
 |   **Tecnologias**   | **Softskills**  | **Hardskills**  |
 |:----------|:----------|:----------|
-| <ul><li>JavaScript</li><li>HTML</li><li>CSS</li><li>JS</li><li>Node</li><li>Python (robô de leitura do Diário Oficial)</li></ul> | <ul><li>Comunicação Efetiva</li><li>Trabalho em Equipe</li><li>Responsabilidade</li><li>Visualização e Resolução de Problemas</li><li>Tranparência</li></ul> | <ul><li>HTML, CSS, React e Javascript (Frontend)</li><li>Node(Backend)</li><li>Python (Automação de manipulação dos Diários)</li><li>MySQL (Banco de dados)</li></ul> |
+| <ul><li>JavaScript</li><li>React</li><li>HTML</li><li>CSS</li><li>JS</li><li>Node</li><li>Python (robô de leitura do Diário Oficial)</li><li>MySQL</li></ul> | <ul><li>Comunicação Efetiva</li><li>Trabalho em Equipe</li><li>Responsabilidade</li><li>Visualização e Resolução de Problemas</li><li>Tranparência</li></ul> | <ul><li>HTML, CSS, React e JS (Frontend)</li><li>Node(Backend)</li><li>Python (Automação de manipulação dos Diários)</li><li>MySQL (Banco de dados)</li></ul> |
      
 </div>  
  
@@ -90,5 +86,38 @@ Send.Me é um sistema web que, a partir de uma lista de associados pré-cadastra
 |   **Filtragem por caderno**   | ***Geração de PDF**  |
 |:----------:|:----------:|
 | <img width="460px" src="https://user-images.githubusercontent.com/92696799/204181812-06970d27-4e57-4527-9385-19950bafff8c.gif"/> | <img width="460px" src="https://user-images.githubusercontent.com/96298784/200205887-c27ea6f7-2745-4588-9c49-6d98fa8a81ec.gif"/> |
+     
+</div>  
+
+---
+
+<span id="3sem"/> 
+
+### [1º Semestre/2023 • Pay.me](https://github.com/CopiloTTeam/documentacao)
+
+> Parceiro Acadêmico: <a href="https://www.pro4tech.com.br/">Pro4tech</a>
+
+CopiloTTeam é um sistema que gerencia emissões de dívidas por meio de boletos, onde tem-se 3 cargos: administrativo, financeiro e comercial.
+- **Minha Contribuição:** Dentro da equipe, no papel de Dev Team, desenvolvi tarefas de frontend, participando da prototipação do projeto (usando o Figma) e a criação de diversos componentes, funcionalidades e interfaces (de botões, cards, listagens e etc) utilizando React e TypeScript.
+
+<div align="center">  
+
+|   **Tecnologias**   | **Softskills**  | **Hardskills**  |
+|:----------|:----------|:----------|
+| <ul><li>TypeScript</li><li>React</li><li>HTML</li><li>CSS</li><li>Java</li><li>MySQL</li></ul> | <ul><li>Comunicação Efetiva</li><li>Trabalho em Equipe</li><li>Responsabilidade</li><li>Visualização e Resolução de Problemas</li><li>Tranparência</li></ul> | <ul><li>HTML, CSS, React e TypeScript (Frontend)</li><li>Java (Backend)</li><li>MySQL (Banco de dados)</li></ul> |
+     
+</div>  
+ 
+**Demonstrações:**
+
+<div align="center">  
+
+|   **Home**   | **Relatório**  |
+|:----------:|:----------:|
+| <img width="460px" src="https://github.com/wallacefelipe21/Portifolio-FATEC/assets/92696799/1e73ad95-7724-458b-874e-6af03c5cd884"/> | <img width="460px" src="https://github.com/wallacefelipe21/Portifolio-FATEC/assets/92696799/965fc033-62fa-48f8-90bb-85a0c8520af7"/> |
+     
+|   **Gráficos**   | **Cadastro de cliente**  |
+|:----------:|:----------:|
+| <img width="460px" src="https://github.com/wallacefelipe21/Portifolio-FATEC/assets/92696799/90a6cc4b-1d7d-48cc-82df-f45ae6a04f8c"/> | <img width="460px" src="https://github.com/wallacefelipe21/Portifolio-FATEC/assets/92696799/36e4b930-7528-4112-b7c1-863e2cd7c534"/> |
      
 </div>  
