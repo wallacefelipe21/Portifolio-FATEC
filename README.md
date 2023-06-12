@@ -35,17 +35,33 @@ Portifólio dos APIs (Aprendizagem por Projeto Integrador) da Faculdade de Tecno
 
 > Parceiro Acadêmico: <a href="https://fatecsjc-prd.azurewebsites.net/">Faculdade de Tecnologia de São José dos Campos (FATEC)</a>
 
-O Sistema de Gestão de Serviços tem como objetivo criar um site que auxilia o controle de serviços para a área de tecnlogia da FATEC Profº Jessen Vidal, possibilitando a abertura e fechamento de chamados, assim agilizando a identificação de problemas dentro do setor.
+- **Problema:**
+
+- **Proposta de Solução:** O Sistema de Gestão de Serviços tem como objetivo criar um site que auxilia o controle de serviços para a área de tecnlogia da FATEC Profº Jessen Vidal, possibilitando a abertura e fechamento de chamados, assim agilizando a identificação de problemas dentro do setor.
+
 - **Minha Contribuição:** Dentro da equipe, desempenhei o papel de Scrum Master, auxiliando o Dev Team com suas atividades, removendo impedimentos e facilitando a comunicação entre o Product Owner (PO) e as tarefas do time de desenvolvimento. No entanto, meu envolvimento não se limitou apenas a esse papel; também estive bastante ativo na elaboração e desenvolvimento do Front-End
 
-<div align="center">  
+- **Tecnologias:** Python/Flask, HTML, CSS, Javascript, MySQL 
 
-|   **Tecnologias**   | **Softskills**  | **Hardskills**  |
-|:----------|:----------|:----------|
-| <ul><li>Python/Flask</li><li>HTML</li><li>CSS</li><li>JS</li><li>MySQL</li></ul> | <ul><li>Proatividade</li><li>Autonomia</li><li>Communicação</li><li>Entrega de Resultados</li></ul> | <ul><li>HTML, CSS e JS (Frontend)</li><li>Python/Flask (Backend)</li><li>MySQL (Banco de dados)</li></ul> |
-     
-</div>  
- 
+<h3> <b> Softskills: </b> </h3>
+<ul>
+     <li> <b> Proatividade: </b> Buscar as melhores soluções, resolver os problemas com agilidade e se possivel com antecedência. </li>
+     <li> <b> Comunicação: </b> Comunicação efetiva e ágil, reuniões produtivas.  </li>
+     <li> <b> Organização: </b> Ajudar na organização e comunicação do time utilizando dos rituais do SCRUM, organizar e ajudar o time com as tarefas propostas para a sprint. </li> 
+</ul> 
+  
+<h3> <b> Hardkills: </b> </h3>
+<ul>
+      <li> <b> HTML: </b> Criação de páginas para WEB, criar componentes (Botões, Barras de pesquisa, Campos para Inserir Informações, Barras de Navegação) personalizadas. </li>
+      <li> <b> CSS: </b> Criar estilos personalizados para páginas WEB, criar componentes e páginas responsivas, utilizar o CSS de forma externa. </li>
+      <li> <b> Javascript:</b> Criar lógicas simples para os componentes do HTML (Criação de váriavel, estruturas de condição, laços de repetição) </li>
+      <li> <b> Python/Flask:</b> Criação das rotas, regras de negócio e conexão com MySQL. </li> 
+      <li> <b> MySQL:</b> Criação de banco de dados relacional. </li>
+      <li> <b> Git:</b> Criação de branches, commits e pushes. </li>
+      <li> <b> Figma:</b> criação de mockups agradaveis. </li>
+      <li> <b> Metodologia Ágil:</b> Aprendi os principios básicos do Scrum e seus rituais, funções do Scrum Master. </li>
+  </ul> 
+  
 **Demonstrações:**
 
 <div align="center">  
