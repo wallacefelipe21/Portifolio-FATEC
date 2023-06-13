@@ -66,7 +66,7 @@ Portifólio dos APIs (Aprendizagem por Projeto Integrador) da Faculdade de Tecno
 **Demonstrações:**
 
 <div align="center">
-     <img width="460px" src= "https://user-images.githubusercontent.com/92696799/163494007-21cde00e-1f0f-4c82-a52f-51ee6eef6012.gif"/>
+     <img width="700px" src= "https://user-images.githubusercontent.com/92696799/163494007-21cde00e-1f0f-4c82-a52f-51ee6eef6012.gif"/>
      <p> Figura 1 - Mockup Navegável do Executor </p>
 </div> 
 
@@ -99,7 +99,7 @@ Portifólio dos APIs (Aprendizagem por Projeto Integrador) da Faculdade de Tecno
 **Demonstrações:**
 
 <div align="center">    
-     <img width="460px" src="https://user-images.githubusercontent.com/96298784/200205887-c27ea6f7-2745-4588-9c49-6d98fa8a81ec.gif"/>
+     <img width="700px" src="https://user-images.githubusercontent.com/96298784/200205887-c27ea6f7-2745-4588-9c49-6d98fa8a81ec.gif"/>
      <p> Figura 2 - Geração do relatório em PDF </p>     
 </div>  
 
@@ -133,7 +133,7 @@ Portifólio dos APIs (Aprendizagem por Projeto Integrador) da Faculdade de Tecno
 **Demonstrações:**
 
 <div align="center">   
-    <img width="460px" src="https://github.com/wallacefelipe21/Portifolio-FATEC/assets/92696799/965fc033-62fa-48f8-90bb-85a0c8520af7"/> 
+    <img width="700px" src="https://github.com/wallacefelipe21/Portifolio-FATEC/assets/92696799/965fc033-62fa-48f8-90bb-85a0c8520af7"/> 
     <p> Figura 3 - Relatório Financeiro </p>     
 </div>  
 
