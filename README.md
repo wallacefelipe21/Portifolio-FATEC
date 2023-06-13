@@ -35,77 +35,73 @@ Portifólio dos APIs (Aprendizagem por Projeto Integrador) da Faculdade de Tecno
 
 > Parceiro Acadêmico: <a href="https://fatecsjc-prd.azurewebsites.net/">Faculdade de Tecnologia de São José dos Campos (FATEC)</a>
 
-- **Problema:**
+- **Problema:** Foi identificada a necessidade de desenvolver um sistema para gerenciar os serviços prestados pela área de tecnologia da FATEC Profº Jessen Vidal. Esse sistema visa oferecer aos usuários comuns a capacidade de abrir solicitações relatando uma ampla variedade de problemas e defeitos, além de fornecer uma área dedicada aos prestadores de serviço, permitindo que eles aceitem os chamados e resolvam as solicitações.
 
-- **Proposta de Solução:** O Sistema de Gestão de Serviços tem como objetivo criar um site que auxilia o controle de serviços para a área de tecnlogia da FATEC Profº Jessen Vidal, possibilitando a abertura e fechamento de chamados, assim agilizando a identificação de problemas dentro do setor.
+- **Proposta de Solução:** A proposta desenvolvida pela equipe consiste na criação de um Sistema de Gestão de Serviços com o objetivo de estabelecer um site que facilite o controle dos serviços prestados pela área de tecnologia da FATEC Profº Jessen Vidal. Esse sistema permitirá a abertura e o encerramento de chamados, acelerando a identificação de problemas dentro do departamento.
 
-- **Minha Contribuição:** Dentro da equipe, desempenhei o papel de Scrum Master, auxiliando o Dev Team com suas atividades, removendo impedimentos e facilitando a comunicação entre o Product Owner (PO) e as tarefas do time de desenvolvimento. No entanto, meu envolvimento não se limitou apenas a esse papel; também estive bastante ativo na elaboração e desenvolvimento do Front-End
+- **Minha Contribuição:** Dentro da equipe, desempenhei o papel de Scrum Master, auxiliando o Dev Team com suas atividades, removendo impedimentos e facilitando a comunicação entre o Product Owner (PO) e as tarefas do time de desenvolvimento. No entanto, meu envolvimento não se limitou apenas a esse papel, também estive bastante ativo na elaboração e desenvolvimento do Front-End
 
 - **Tecnologias:** Python/Flask, HTML, CSS, Javascript, MySQL 
 
 <h3> <b> Softskills: </b> </h3>
 <ul>
-     <li> <b> Proatividade: </b> Buscar as melhores soluções, resolver os problemas com agilidade e se possivel com antecedência. </li>
-     <li> <b> Comunicação: </b> Comunicação efetiva e ágil, reuniões produtivas.  </li>
-     <li> <b> Organização: </b> Ajudar na organização e comunicação do time utilizando dos rituais do SCRUM, organizar e ajudar o time com as tarefas propostas para a sprint. </li> 
+     <li> <b> Proatividade: </b> Ao longo do projeto, aprendi a importância de buscar as melhores soluções de forma rápida e antecipada, focando na remoção de quaisquer obstáculos que pudessem surgir no caminho, tanto para o projeto em si quanto para a equipe. </li>
+     <li> <b> Comunicação: </b> Ao longo do projeto, aprendi a importância da comunicação efetiva e ágil, bem como a realização de reuniões produtivas.  </li>
+     <li> <b> Organização: </b> Aprendi a auxiliar na organização e comunicação da equipe utilizando os rituais do Scrum, além de ajudar na definição e acompanhamento das tarefas da sprint. </li> 
+     <li> <b> Apresentação: </b> Ao longo do projeto e das apresentações ao cliente no final de cada sprint, aprendi a melhorar minha habilidade de apresentação, enfatizando os principais destaques e conquistas do projeto desenvolvido.</li> 
 </ul> 
   
 <h3> <b> Hardkills: </b> </h3>
 <ul>
-      <li> <b> HTML: </b> Criação de páginas para WEB, criar componentes (Botões, Barras de pesquisa, Campos para Inserir Informações, Barras de Navegação) personalizadas. </li>
-      <li> <b> CSS: </b> Criar estilos personalizados para páginas WEB, criar componentes e páginas responsivas, utilizar o CSS de forma externa. </li>
-      <li> <b> Javascript:</b> Criar lógicas simples para os componentes do HTML (Criação de váriavel, estruturas de condição, laços de repetição) </li>
-      <li> <b> Python/Flask:</b> Criação das rotas, regras de negócio e conexão com MySQL. </li> 
-      <li> <b> MySQL:</b> Criação de banco de dados relacional. </li>
-      <li> <b> Git:</b> Criação de branches, commits e pushes. </li>
-      <li> <b> Figma:</b> criação de mockups agradaveis. </li>
-      <li> <b> Metodologia Ágil:</b> Aprendi os principios básicos do Scrum e seus rituais, funções do Scrum Master. </li>
+      <li> <b> HTML: </b> Criação de páginas web, desenvolvimento de componentes personalizados (botões, barras de pesquisa, campos para inserir informações, barras de navegação). </li>
+      <li> <b> CSS: </b> Estilização personalizada de páginas web, criação de componentes e páginas responsivas, utilização de CSS externo. </li>
+      <li> <b> Javascript:</b> Implementação de lógicas simples para os componentes HTML (criação de variáveis, estruturas de condição, laços de repetição). </li>
+      <li> <b> Python/Flask:</b> Criação de rotas, regras de negócio e conexão com o banco de dados MySQL.</li> 
+      <li> <b> MySQL:</b> Criação de bancos de dados relacionais. </li>
+      <li> <b> Git:</b> Criação de branches, commits e pushes para o controle de versão do projeto.</li>
+      <li> <b> Figma:</b> Criação de mockups atraentes e visualmente agradáveis. </li>
+      <li> <b> Metodologia Ágil:</b> Compreensão dos princípios básicos do Scrum, participação nos rituais do Scrum e entendimento das funções do Scrum Master. </li>
   </ul> 
   
 **Demonstrações:**
 
-<div align="center">  
-
-|   **Usuário comum**   | ***Usuário executor**  |
-|:----------:|:----------:|
-| <img width="460px" src= "https://user-images.githubusercontent.com/92696799/163493216-654e13f5-c4b9-43df-a295-8dd7b179e3dc.gif"/> | <img width="460px" src= "https://user-images.githubusercontent.com/92696799/163494007-21cde00e-1f0f-4c82-a52f-51ee6eef6012.gif"/> |
-
-</div>  
-
----
+<div align="center">
+     <img width="460px" src= "https://user-images.githubusercontent.com/92696799/163494007-21cde00e-1f0f-4c82-a52f-51ee6eef6012.gif"/>
+     <p> Figura 1 - Mockup Navegável do Executor </p>
+</div> 
 
 <span id="2sem"/> 
 
 ### [2º Semestre/2022 • Send.Me](https://github.com/The-Seven-DSM/Send.me-Documentacao-2022-2)
 
 > Parceiro Acadêmico: <a href="https://midall.com.br/">MidAll</a>
+     
+- **Problema:** Foi identificada a necessidade de desenvolver um sistema que possa buscar os associados presentes nos PDFs gerados pelo Diário Oficial do Estado de São Paulo. Com essa informação, o sistema enviará notificações aos associados caso sejam mencionados nas publicações do diário.
 
-Send.Me é um sistema web que, a partir de uma lista de associados pré-cadastrada, coleta as citações de seus nomes no Diário Oficial do estado de São Paulo e, após validação, envia um e-mail como notificação para o associado em questão.
+- **Proposta de Solução:** A proposta elaborada pela equipe é a criação de um sistema web chamado Send.Me. Esse sistema tem como objetivo coletar as citações dos nomes de associados previamente cadastrados no Diário Oficial do estado de São Paulo. Após a validação das citações, o sistema enviará notificações por e-mail para os associados correspondentes.
+
 - **Minha Contribuição:** Dentro da equipe, desempenhei o papel de Scrum Master, auxiliando o Dev Team com suas atividades, removendo impedimentos e facilitando a comunicação entre o Product Owner (PO) e as tarefas do time de desenvolvimento. No entanto, meu envolvimento não se limitou apenas a esse papel; também estive bastante ativo na elaboração e desenvolvimento do Front-End, como a prototipação do projeto (usando o Figma) e a criação de diversos componentes e interfaces (de botões, cards, listagens e etc) utilizando React e JavaScript.
 
-<div align="center">  
+- **Tecnologias:** React, CSS, Javascript, Node, Python, MySQL 
 
-|   **Tecnologias**   | **Softskills**  | **Hardskills**  |
-|:----------|:----------|:----------|
-| <ul><li>JavaScript</li><li>React</li><li>HTML</li><li>CSS</li><li>JS</li><li>Node</li><li>Python (robô de leitura do Diário Oficial)</li><li>MySQL</li></ul> | <ul><li>Comunicação Efetiva</li><li>Trabalho em Equipe</li><li>Responsabilidade</li><li>Visualização e Resolução de Problemas</li><li>Tranparência</li></ul> | <ul><li>HTML, CSS, React e JS (Frontend)</li><li>Node(Backend)</li><li>Python (Automação de manipulação dos Diários)</li><li>MySQL (Banco de dados)</li></ul> |
-     
-</div>  
+<h3> <b> Softskills: </b> </h3>
+<ul>
+     <li> <b> Transparência: </b> Durante o projeto, compreendi a importância da transparência tanto com o cliente quanto com a equipe. Aprendi a manter todos os rituais e informações prontamente disponíveis, de forma clara e acessível para a equipe de desenvolvimento. </li>
+     <li> <b> Foco: </b>Durante o projeto, reconheci que cometi alguns deslizes em relação ao meu foco como Scrum Master, perdendo de vista os ritos do Scrum. Essa falta de concentração afetou a organização da equipe. No entanto, ao perceber essa falha, empenhei-me em melhorar como Scrum Master e passei a dedicar-me de forma mais ativa a essa função, abdicando do papel de desenvolvedor.  </li>
+</ul> 
+  
+<h3> <b> Hardkills: </b> </h3>
+<ul>
+     <li> <b> React: </b> Criação de páginas web, desenvolvimento de componentes personalizados.</li>
+     <li> <b> Node: </b> Criação de rotas, regras de negócio e conexão com o banco de dados MySQL.</li>
+</ul> 
  
 **Demonstrações:**
 
-<div align="center">  
-
-|   **Cadastro do Backoffice**   | ***Login e listagens**  |
-|:----------:|:----------:|
-| <img width="460px" src="https://user-images.githubusercontent.com/96298784/200205918-8e3769ea-4ff5-40f0-ab08-bf18364c8b26.gif"/> | <img width="460px" src="https://user-images.githubusercontent.com/96298784/194959695-38aca9b7-a863-48b7-8733-6676190f2e5f.gif"/> |
-     
-|   **Filtragem por caderno**   | ***Geração de PDF**  |
-|:----------:|:----------:|
-| <img width="460px" src="https://user-images.githubusercontent.com/92696799/204181812-06970d27-4e57-4527-9385-19950bafff8c.gif"/> | <img width="460px" src="https://user-images.githubusercontent.com/96298784/200205887-c27ea6f7-2745-4588-9c49-6d98fa8a81ec.gif"/> |
-     
+<div align="center">    
+     <img width="460px" src="https://user-images.githubusercontent.com/96298784/200205887-c27ea6f7-2745-4588-9c49-6d98fa8a81ec.gif"/>
+     <p> Figura 2 - Geração do relatório em PDF </p>     
 </div>  
-
----
 
 <span id="3sem"/> 
 
@@ -113,27 +109,31 @@ Send.Me é um sistema web que, a partir de uma lista de associados pré-cadastra
 
 > Parceiro Acadêmico: <a href="https://www.pro4tech.com.br/">Pro4tech</a>
 
-CopiloTTeam é um sistema que gerencia emissões de dívidas por meio de boletos, onde tem-se 3 cargos: administrativo, financeiro e comercial.
+- **Problema:** Foi identificada a necessidade de desenvolver um sistema para automatizar os processos na área de gestão financeira. Esse sistema permitirá gerenciar de forma simples a emissão de títulos, parcelas e o controle de clientes e funcionários.
+
+- **Proposta de Solução:** A proposta elaborada pela equipe consiste na criação de um sistema de gestão de emissões de dívidas por meio de boletos. Esse sistema terá três cargos distintos: administrativo, financeiro e comercial. Cada cargo desempenhará funções específicas relacionadas à gestão das emissões de dívidas, garantindo um fluxo eficiente e organizado no processo.
+
 - **Minha Contribuição:** Dentro da equipe, no papel de Dev Team, desenvolvi tarefas de frontend, participando da prototipação do projeto (usando o Figma) e a criação de diversos componentes, funcionalidades e interfaces (de botões, cards, listagens e etc) utilizando React e TypeScript.
 
-<div align="center">  
+- **Tecnologias:** React, CSS, TypeScript, Node, Java, MySQL 
 
-|   **Tecnologias**   | **Softskills**  | **Hardskills**  |
-|:----------|:----------|:----------|
-| <ul><li>TypeScript</li><li>React</li><li>HTML</li><li>CSS</li><li>Java</li><li>MySQL</li></ul> | <ul><li>Comunicação Efetiva</li><li>Trabalho em Equipe</li><li>Responsabilidade</li><li>Visualização e Resolução de Problemas</li><li>Tranparência</li></ul> | <ul><li>HTML, CSS, React e TypeScript (Frontend)</li><li>Java (Backend)</li><li>MySQL (Banco de dados)</li></ul> |
-     
-</div>  
+<h3> <b> Softskills: </b> </h3>
+<ul>
+     <li> <b> Adaptação: </b> Durante o projeto, precisei me adaptar a uma nova função como desenvolvedor, além de realizar ajustes nos códigos para torná-los mais organizados e de fácil compreensão. </li>
+     <li> <b> Frustação: </b> Durante o projeto, enfrentamos diversas dificuldades e complicações, o que resultou em algumas entregas comprometidas. Diante dessa situação, foi necessário aprender a lidar com a frustração de não conseguir entregar o suficiente e atender todas as expectativas. </li>
+     <li> <b> Resolução de Problemas: </b> Com os desafios enfrentados pela equipe durante o desenvolvimento, foi necessário se adaptar e buscar ajuda para resolver os diversos problemas. Aprendi a solicitar apoio de forma mais rápida e eficiente, evitando assim prejudicar ainda mais o andamento do projeto. </li>
+</ul> 
+  
+<h3> <b> Hardkills: </b> </h3>
+<ul>
+     <li> <b> React: </b> Busquei aprimorar a criação de páginas e componentes web, visando torná-los mais confiáveis e utilizando um código mais limpo. </li>
+     <li> <b> Figma:</b> Busquei criar mockups mais sólidos e profissionais, utilizando de forma mais eficiente a paleta de cores e as ferramentas disponíveis no software. </li>
+</ul> 
  
 **Demonstrações:**
 
-<div align="center">  
-
-|   **Home**   | **Relatório**  |
-|:----------:|:----------:|
-| <img width="460px" src="https://github.com/wallacefelipe21/Portifolio-FATEC/assets/92696799/1e73ad95-7724-458b-874e-6af03c5cd884"/> | <img width="460px" src="https://github.com/wallacefelipe21/Portifolio-FATEC/assets/92696799/965fc033-62fa-48f8-90bb-85a0c8520af7"/> |
-     
-|   **Gráficos**   | **Cadastro de cliente**  |
-|:----------:|:----------:|
-| <img width="460px" src="https://github.com/wallacefelipe21/Portifolio-FATEC/assets/92696799/90a6cc4b-1d7d-48cc-82df-f45ae6a04f8c"/> | <img width="460px" src="https://github.com/wallacefelipe21/Portifolio-FATEC/assets/92696799/36e4b930-7528-4112-b7c1-863e2cd7c534"/> |
-     
+<div align="center">   
+    <img width="460px" src="https://github.com/wallacefelipe21/Portifolio-FATEC/assets/92696799/965fc033-62fa-48f8-90bb-85a0c8520af7"/> 
+    <p> Figura 3 - Relatório Financeiro </p>     
 </div>  
+
